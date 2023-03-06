@@ -67,6 +67,7 @@ deck.h: Header file containing definitions and prototypes for all types and func
 
 Data Structures:
 
+------------------------------------------------------
 
 typedef enum kind_e
 
@@ -82,7 +83,7 @@ typedef enum kind_e
 
 } kind_t;
 
-
+------------------------------------------------------
 
 typedef struct card_s
 
@@ -94,7 +95,7 @@ typedef struct card_s
 
 } card_t;
 
-
+------------------------------------------------------
 
 typedef struct deck_node_s
 
@@ -108,6 +109,7 @@ typedef struct deck_node_s
 
 } deck_node_t;
 
+-------------------------------------------------------
 
 Function Prototype:
 
